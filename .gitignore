@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+yolo11l.pt
+yolo11m.pt
+yolo11n.pt
+yolo11s.pt
+yolo11x.pt
+content/datasets/brain-tumor/train
+content/datasets/brain-tumor/valid
+runs
